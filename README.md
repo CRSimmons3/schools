@@ -25,5 +25,6 @@ Tableau was used for a storyboard for the final report.
 The code is available as Jupyter notebooks, in the Scripts folder
 
 ## Final report
-The final report is found here: https://public.tableau.com/app/profile/catherine.simmons1492/viz/SchoolsinEngland/SchoolsinEngland#1
+The final report contains curated highlights of the findings and can be found here:
+https://public.tableau.com/app/profile/catherine.simmons1492/viz/SchoolsinEngland/SchoolsinEngland#1
 
